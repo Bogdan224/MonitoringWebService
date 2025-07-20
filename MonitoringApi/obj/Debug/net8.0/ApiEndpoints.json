@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "MonitoringApi.Controllers.DeviceActivityController",
+    "Method": "Post",
+    "RelativePath": "api/DeviceActivity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "activity",
+        "Type": "MonitoringApi.Models.DeviceActivity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MonitoringApi.Controllers.DeviceActivityController",
+    "Method": "DeleteDeviceActivity",
+    "RelativePath": "api/DeviceActivity",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ids",
+        "Type": "System.String[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MonitoringApi.Controllers.DeviceActivityController",
+    "Method": "GetDevices",
+    "RelativePath": "api/DeviceActivity/devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MonitoringApi.Controllers.DeviceActivityController",
+    "Method": "GetDeviceActivities",
+    "RelativePath": "api/DeviceActivity/devices/{userName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

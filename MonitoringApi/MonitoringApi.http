@@ -1,0 +1,6 @@
+@MonitoringApi_HostAddress = http://localhost:7269
+
+GET {{MonitoringApi_HostAddress}}
+Accept: application/json
+
+###

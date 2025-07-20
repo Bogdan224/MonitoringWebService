@@ -1,0 +1,9 @@
+<h2>Список устройств</h2>
+<ul *ngIf="devices.length">
+  <h3>Количество: {{devices.length}}</h3>
+  <li *ngFor="let device of devices">
+    <a [routerLink]="['/device', device]">{{ device }}</a>
+  </li>
+</ul>
+
+<div *ngIf="!devices.length">Устройства не найдены</div>

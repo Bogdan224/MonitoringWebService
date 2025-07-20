@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\controllers\\deviceactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:controllers\\deviceactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\models\\deviceactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:models\\deviceactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\logs\\log20250720.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:logs\\log20250720.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|d:\\programming\\web\\asp.net\\monitoringwebservice\\monitoringapi\\monitoringapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{49C691B9-B55D-401C-84E9-EB4C1AA1E717}|MonitoringApi.csproj|solutionrelative:monitoringapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log20250720.txt",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\logs\\log20250720.txt",
+              "RelativeDocumentMoniker": "logs\\log20250720.txt",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\logs\\log20250720.txt",
+              "RelativeToolTip": "logs\\log20250720.txt",
+              "ViewState": "AgIAAP0CAAAAAAAAAAAAAPQIAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-19T17:13:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T15:47:49.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T15:45:06.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T15:56:23.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonitoringApi.http",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\MonitoringApi.http",
+              "RelativeDocumentMoniker": "MonitoringApi.http",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\MonitoringApi.http",
+              "RelativeToolTip": "MonitoringApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-16T15:54:44.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceActivityController.cs",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Controllers\\DeviceActivityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceActivityController.cs",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Controllers\\DeviceActivityController.cs",
+              "RelativeToolTip": "Controllers\\DeviceActivityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:19:31.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Services\\StorageService.cs",
+              "RelativeDocumentMoniker": "Services\\StorageService.cs",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Services\\StorageService.cs",
+              "RelativeToolTip": "Services\\StorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:17:44.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceActivity.cs",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Models\\DeviceActivity.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceActivity.cs",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Models\\DeviceActivity.cs",
+              "RelativeToolTip": "Models\\DeviceActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:16:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Web\\ASP.NET\\MonitoringWebService\\MonitoringApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:14:30.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
