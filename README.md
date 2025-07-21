@@ -1,5 +1,7 @@
 # Monitoring Web Service
-Для того, чтобы запустить сервис, нужно:
+
+## Запуск
+У вас должны быть установлены [зависимости проекта](https://github.com/Bogdan224/MonitoringWebService#зависимости):
 
 1. Запуск API
 
@@ -29,3 +31,7 @@ API работает на портах 5095 и 7269.
 Сайт работает на порте 4200
 
 ```https://localhost:4200```
+
+<!--зависимости-->
+## Зависимости
+Эта программа испульзует [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11. и .NET 8
