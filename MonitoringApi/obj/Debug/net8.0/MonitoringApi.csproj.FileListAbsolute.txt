@@ -115,10 +115,10 @@ D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\s
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\staticwebassets.development.json
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\Monitori.A4695D69.Up2Date
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\MonitoringApi.dll
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\refint\MonitoringApi.dll
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\MonitoringApi.pdb
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\MonitoringApi.genruntimeconfig.cache
 D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\ref\MonitoringApi.dll
+D:\Programming\Web\ASP.NET\MonitoringWebService\MonitoringApi\obj\Debug\net8.0\MonitoringApi.sourcelink.json
