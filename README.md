@@ -14,7 +14,13 @@ API работает на портах 5095 и 7269.
 ```https://localhost:7269/swagger```
 
 
-3. Запуск сайта
+3. Установка зависимостей
+
+```cd .../MonitoringClient```
+
+```npm install```
+
+4. Запуск сайта
 
 ```cd .../MonitoringClient```
 
